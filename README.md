@@ -4,4 +4,4 @@ Most existing GNNs are designed within 2 dimensions. However, many real world pr
 
 ## 3D models for molecular graphs
 
-1. Schütt, K.T., Kindermans, P.J., Sauceda, H.E., Chmiela, S., Tkatchenko, A. and Müller, K.R., 2017. **Schnet: A continuous-filter convolutional neural network for modeling quantum interactions**. arXiv preprint arXiv:1706.08566. [papers]{https://arxiv.org/abs/1706.08566}.
+1. Schütt, K.T., Kindermans, P.J., Sauceda, H.E., Chmiela, S., Tkatchenko, A. and Müller, K.R., 2017. **Schnet: A continuous-filter convolutional neural network for modeling quantum interactions**. arXiv preprint arXiv:1706.08566. [paper](https://arxiv.org/abs/1706.08566).
