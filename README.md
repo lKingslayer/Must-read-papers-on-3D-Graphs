@@ -5,3 +5,13 @@ Most existing GNNs are designed within 2 dimensions. However, many real world pr
 ## 3D models for molecular graphs
 
 1. Schütt, K.T., Kindermans, P.J., Sauceda, H.E., Chmiela, S., Tkatchenko, A. and Müller, K.R., 2017. **Schnet: A continuous-filter convolutional neural network for modeling quantum interactions**. arXiv preprint arXiv:1706.08566. [paper](https://arxiv.org/abs/1706.08566).
+
+2. Unke, O.T. and Meuwly, M., 2019. **PhysNet: A neural network for predicting energies, forces, dipole moments, and partial charges. Journal of chemical theory and computation**, 15(6), pp.3678-3693. [paper](https://arxiv.org/abs/1902.08408).
+
+3. Klicpera, J., Groß, J. and Günnemann, S., 2020. **Directional message passing for molecular graphs**. arXiv preprint arXiv:2003.03123. [paper](https://arxiv.org/abs/2003.03123).
+
+4. Klicpera, J., Giri, S., Margraf, J.T. and Günnemann, S., 2020. **Fast and Uncertainty-Aware Directional Message Passing for Non-Equilibrium Molecules**. arXiv preprint arXiv:2011.14115. [paper](https://arxiv.org/abs/2011.14115).
+
+5. Qiao, Z., Welborn, M., Anandkumar, A., Manby, F.R. and Miller III, T.F., 2020. **OrbNet: Deep learning for quantum chemistry using symmetry-adapted atomic-orbital features**. The Journal of Chemical Physics, 153(12), p.124111. [paper](https://arxiv.org/abs/2007.08026).
+
+6. Liu, Y., Wang, L., Liu, M., Zhang, X., Oztekin, B. and Ji, S., 2021. **Spherical Message Passing for 3D Graph Networks**. arXiv preprint arXiv:2102.05013. [paper](https://arxiv.org/abs/2102.05013).
