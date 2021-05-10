@@ -15,3 +15,8 @@ Most existing GNNs are designed within 2 dimensions. However, many real world pr
 5. Qiao, Z., Welborn, M., Anandkumar, A., Manby, F.R. and Miller III, T.F., 2020. **OrbNet: Deep learning for quantum chemistry using symmetry-adapted atomic-orbital features**. The Journal of Chemical Physics, 153(12), p.124111. [paper](https://arxiv.org/abs/2007.08026).
 
 6. Liu, Y., Wang, L., Liu, M., Zhang, X., Oztekin, B. and Ji, S., 2021. **Spherical Message Passing for 3D Graph Networks**. arXiv preprint arXiv:2102.05013. [paper](https://arxiv.org/abs/2102.05013).
+
+7. Jing, B., Eismann, S., Suriana, P., Townshend, R.J. and Dror, R., 2020. **Learning from protein structure with geometric vector perceptrons**. arXiv preprint arXiv:2009.01411. [paper](https://arxiv.org/abs/2009.01411)
+
+8. Gainza P, Sverrisson F, Monti F, et al. **Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning**. Nat Methods. 2020;17(2):184-192. doi:10.1038/s41592-019-0666-6 [paper](https://pubmed.ncbi.nlm.nih.gov/31819266/)
+
