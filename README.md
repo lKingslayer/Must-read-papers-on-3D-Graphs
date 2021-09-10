@@ -20,6 +20,6 @@ Most existing GNNs are designed within 2 dimensions. However, many real world pr
 
 8. Gainza P, Sverrisson F, Monti F, et al. **Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning**. Nat Methods. 2020;17(2):184-192. doi:10.1038/s41592-019-0666-6 [paper](https://pubmed.ncbi.nlm.nih.gov/31819266/)
 
-9. Sverrisson, F., Feydy, J., Correia, B. E., & Bronstein, M. M. (2020). Fast end-to-end learning on protein surfaces. bioRxiv. [paper](https://www.biorxiv.org/content/10.1101/2020.12.28.424589v1.full)
+9. Sverrisson, F., Feydy, J., Correia, B. E., & Bronstein, M. M. (2020). **Fast end-to-end learning on protein surfaces**. bioRxiv. [paper](https://www.biorxiv.org/content/10.1101/2020.12.28.424589v1.full)
 
-10. N. Gebauer, M. Gastegger, and K. Schütt. Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules. In H. Wallach, H. Larochelle, A. Beygelzimer, F. d'Alché-Buc, E. Fox, and R. Garnett, editors, Advances in Neural Information Processing Systems 32, pages 7564–7576. Curran Associates, Inc., 2019. [paper](https://proceedings.neurips.cc/paper/2019/file/a4d8e2a7e0d0c102339f97716d2fdfb6-Paper.pdf) 
+10. N. Gebauer, M. Gastegger, and K. Schütt. **Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules**. In H. Wallach, H. Larochelle, A. Beygelzimer, F. d'Alché-Buc, E. Fox, and R. Garnett, editors, Advances in Neural Information Processing Systems 32, pages 7564–7576. Curran Associates, Inc., 2019. [paper](https://proceedings.neurips.cc/paper/2019/file/a4d8e2a7e0d0c102339f97716d2fdfb6-Paper.pdf) 
