@@ -24,11 +24,11 @@ Most existing GNNs are designed within 2 dimensions. However, many real world pr
 
 - Liu, Y., Wang, L., Liu, M., Zhang, X., Oztekin, B. and Ji, S., 2021. **Spherical Message Passing for 3D Graph Networks**. arXiv preprint arXiv:2102.05013. [paper](https://arxiv.org/abs/2102.05013).
 
-- Gasteiger, J., Becker, F., & Günnemann, S. (2021). GemNet: Universal Directional Graph Neural Networks for Molecules. arXiv. [paper](https://doi.org/10.48550/arXiv.2106.08903).
+- Gasteiger, J., Becker, F., & Günnemann, S. (2021). **GemNet: Universal Directional Graph Neural Networks for Molecules**. arXiv. [paper](https://doi.org/10.48550/arXiv.2106.08903).
 
-- Gasteiger, J., Yeshwanth, C., & Günnemann, S. (2021). Directional Message Passing on Molecular Graphs via Synthetic Coordinates. arXiv. [paper](https://doi.org/10.48550/arXiv.2111.04718).
+- Gasteiger, J., Yeshwanth, C., & Günnemann, S. (2021). **Directional Message Passing on Molecular Graphs via Synthetic Coordinates**. arXiv. [paper](https://doi.org/10.48550/arXiv.2111.04718).
 
-- Stärk, H., Beaini, D., Corso, G., Tossou, P., Dallago, C., Günnemann, S., & Liò, P. (2021). 3D Infomax improves GNNs for Molecular Property Prediction. arXiv. [paper](https://doi.org/10.48550/arXiv.2110.04126).
+- Stärk, H., Beaini, D., Corso, G., Tossou, P., Dallago, C., Günnemann, S., & Liò, P. (2021). **3D Infomax improves GNNs for Molecular Property Prediction**. arXiv. [paper](https://doi.org/10.48550/arXiv.2110.04126).
 
 ## 3D models for particle physics
 
