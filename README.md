@@ -32,4 +32,8 @@ Most existing GNNs are designed within 2 dimensions. However, many real world pr
 
 ## 3D models for particle physics
 
-To be continued...
+- Cranmer, M.D., Xu, R., Battaglia, P. and Ho, S., 2019. **Learning symbolic physics with graph networks**. arXiv preprint arXiv:1909.05862. [paper](https://arxiv.org/pdf/1909.05862.pdf).
+
+- Sanchez-Gonzalez, A., Godwin, J., Pfaff, T., Ying, R., Leskovec, J. and Battaglia, P., 2020, November. **Learning to simulate complex physics with graph networks**. In International Conference on Machine Learning (pp. 8459-8468). PMLR. [paper](https://arxiv.org/abs/2002.09405).
+
+ 
