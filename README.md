@@ -30,7 +30,7 @@ Most existing GNNs are designed within 2 dimensions. However, many real world pr
 
 - Stärk, H., Beaini, D., Corso, G., Tossou, P., Dallago, C., Günnemann, S., & Liò, P. (2021). **3D Infomax improves GNNs for Molecular Property Prediction**. arXiv. [paper](https://doi.org/10.48550/arXiv.2110.04126).
 
-## 3D models for particle physics
+## 3D models for physical simulation
 
 - Cranmer, M.D., Xu, R., Battaglia, P. and Ho, S., 2019. **Learning symbolic physics with graph networks**. arXiv preprint arXiv:1909.05862. [paper](https://arxiv.org/pdf/1909.05862.pdf).
 
