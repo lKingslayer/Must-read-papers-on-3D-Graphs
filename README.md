@@ -1,8 +1,10 @@
 # Must-read-papers-on-3D-Graphs
 
-Most existing GNNs are designed within 2 dimensions. However, many real world problems such as particle dynamics, molecular dynamics, are situated in 3 dimensions, which makes most existing GNNs models unfeasible to tackle these problems in the real world. To the end, I gather a bunch of recent papers which mostly focous on the 3D Graphs and their applications for those who are interested or now researching on this topic. 
+Most existing GNNs are designed within 2 dimensions. However, many real-world problems such as particle dynamics, and molecular dynamics, are situated in 3 dimensions, which makes most existing GNN models unfeasible to tackle these problems in the real world. To the end, I gathered a bunch of recent papers that mostly focus on 3D Graphs and their applications for those who are interested or now researching this topic. 
 
 ## 3D models for molecular graphs
+
+### Physics-inspired models
 
 - Schütt, K.T., Kindermans, P.J., Sauceda, H.E., Chmiela, S., Tkatchenko, A. and Müller, K.R., 2017. **Schnet: A continuous-filter convolutional neural network for modeling quantum interactions**. arXiv preprint arXiv:1706.08566. [paper](https://arxiv.org/abs/1706.08566).
 
@@ -29,6 +31,14 @@ Most existing GNNs are designed within 2 dimensions. However, many real world pr
 - Gasteiger, J., Yeshwanth, C., & Günnemann, S. (2021). **Directional Message Passing on Molecular Graphs via Synthetic Coordinates**. arXiv. [paper](https://doi.org/10.48550/arXiv.2111.04718).
 
 - Stärk, H., Beaini, D., Corso, G., Tossou, P., Dallago, C., Günnemann, S., & Liò, P. (2021). **3D Infomax improves GNNs for Molecular Property Prediction**. arXiv. [paper](https://doi.org/10.48550/arXiv.2110.04126).
+
+### Transformer-inspired models
+
+- Fuchs, Fabian, Daniel Worrall, Volker Fischer, and Max Welling. (2020). **Se(3)-transformers: 3d roto-translation equivariant attention networks**. NIPs. [paper](https://proceedings.neurips.cc/paper/2020/file/15231a7ce4ba789d13b722cc5c955834-Paper.pdf)
+- Philipp Thölke and Gianni De Fabritiis. (2022). **Equivariant transformers for neural network based molecular potentials**. ICLR. [paper](https://openreview.net/pdf?id=zNHzqZ9wrRB)
+- Tuan Le, Frank Noé, and Djork-Arné Clevert. (2022). **Equivariant graph attention networks for molecular property prediction**. arXive. [paper](https://arxiv.org/pdf/2202.09891.pdf)
+- Yi-Lun Liao, Tess Smidt. (2023). **Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs**. ICLR. [paper](https://openreview.net/pdf?id=KwmPfARgOTD)
+
 
 ## 3D models for physical simulation
 
