@@ -2,7 +2,7 @@
 
 Most existing GNNs are designed within 2 dimensions. However, many real-world problems such as particle dynamics, and molecular dynamics, are situated in 3 dimensions, which makes most existing GNN models unfeasible to tackle these problems in the real world. To the end, I gathered a bunch of recent papers that mostly focus on 3D Graphs and their applications for those who are interested or now researching this topic. 
 
-## 3D models for molecular graphs
+## 3D Models for Drug Discovery
 
 ### Physics-inspired models
 
@@ -41,7 +41,7 @@ Most existing GNNs are designed within 2 dimensions. However, many real-world pr
 - Artem Moskalev, Mangal Prakash, Rui Liao, Tommaso Mansi. (2024). **SE(3)-Hyena Operator for Scalable Equivariant Learning**. ILML. [paper](https://openreview.net/pdf/aa60103ded47ad1630142df3be4089e130aa096c.pdf)
 
 
-## 3D models for physical simulation
+## 3D Models for Physical Simulation
 
 - Cranmer, M.D., Xu, R., Battaglia, P. and Ho, S., 2019. **Learning symbolic physics with graph networks**. arXiv preprint arXiv:1909.05862. [paper](https://arxiv.org/pdf/1909.05862.pdf).
 
