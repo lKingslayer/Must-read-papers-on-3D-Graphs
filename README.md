@@ -38,7 +38,7 @@ Most existing GNNs are designed within 2 dimensions. However, many real-world pr
 - Philipp Thölke and Gianni De Fabritiis. (2022). **Equivariant transformers for neural network based molecular potentials**. ICLR. [paper](https://openreview.net/pdf?id=zNHzqZ9wrRB)
 - Tuan Le, Frank Noé, and Djork-Arné Clevert. (2022). **Equivariant graph attention networks for molecular property prediction**. arXive. [paper](https://arxiv.org/pdf/2202.09891.pdf)
 - Yi-Lun Liao, Tess Smidt. (2023). **Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs**. ICLR. [paper](https://openreview.net/pdf?id=KwmPfARgOTD)
-- Artem Moskalev, Mangal Prakash, Rui Liao, Tommaso Mansi. (2024). **SE(3)-Hyena Operator for Scalable Equivariant Learning**. ILML. [paper](https://openreview.net/pdf/aa60103ded47ad1630142df3be4089e130aa096c.pdf)
+- Artem Moskalev, Mangal Prakash, Rui Liao, Tommaso Mansi. (2024). **SE(3)-Hyena Operator for Scalable Equivariant Learning**. ICML. [paper](https://openreview.net/pdf/aa60103ded47ad1630142df3be4089e130aa096c.pdf)
 
 
 ## 3D Models for Physical Simulation
